@@ -1,0 +1,1 @@
+{'Tipo': 'Restaurant', 'ID_de_entrada': '34JOSE232343241V432', 'Lista_de_Productos': ['Hecho a mano Plástico Gorro', 'Hecho a mano Plástico Gorro', 'Hecho a mano Plástico Gorro'], 'Monto_Restaurant': 2752.68}

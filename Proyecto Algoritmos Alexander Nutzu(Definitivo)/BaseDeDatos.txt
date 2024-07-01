@@ -1,0 +1,2 @@
+{'Tipo': 'Entrada', 'Nombre': 'JOSE', 'Edad': 34, 'Cedula': '23234324', 'Tipo_de_Entrada': 'VIP', 'Numero_de_Partido': 1, 'Puesto': (4, 32), 'ID_de_entrada': '34JOSE232343241V432', 'Monto_Entrada': 87.0, 'Asistencia': 'False'}
+{'Tipo': 'Entrada', 'Nombre': 'JOSE', 'Edad': 34, 'Cedula': '23234324', 'Tipo_de_Entrada': 'VIP', 'Numero_de_Partido': 1, 'Puesto': (4, 32), 'ID_de_entrada': '34JOSE232343241V432', 'Monto_Entrada': 87.0, 'Asistencia': 'True'}
